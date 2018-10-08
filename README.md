@@ -1,5 +1,8 @@
-# Busides
-LINE Bot which build on GAS. 
+# ブジデス
+ブジデスはあなたの無事をそっと伝えられるチャットボットです。
+平成最後の夏・・・多くの自然災害が日本を襲いました。災害発生時、ちゃんと「無事です」を伝えることができるだろうか？使い慣れない災害掲示板を使えるだろうか？
+普段使い慣れているUIである「LINE」で、無事を伝えたい。無事を知りたい。近くの避難所の情報を知りたい。そんな要望にブジデスは応えます。
 
-
-'Busidesu' is a LINE chatbot that you can gently announce your safety.
+## src
+* bot : LINE Bot のソースコードです（gs）
+* document : 技術資料と機能説明資料です
